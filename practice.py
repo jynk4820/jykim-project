@@ -116,7 +116,7 @@ index = python.index("n", index + 1)
 print(index)
 
 print(python.find("Java"))
-#print(python.index("Java"))
+#print(python.index("Java")) 주석 풀면 오류 발생해서 밑에 코드들 실행안됨 
 print("hi")
 
 print(python.count("n"))
